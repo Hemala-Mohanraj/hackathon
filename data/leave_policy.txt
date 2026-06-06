@@ -1,0 +1,7 @@
+Employees receive 18 annual leaves per year.
+
+Employees can apply for leave through the employee portal.
+
+Leave requests require manager approval.
+
+Unused leaves cannot be carried forward to the next year.
